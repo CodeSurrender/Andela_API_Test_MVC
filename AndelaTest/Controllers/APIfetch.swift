@@ -18,7 +18,7 @@ class NetworkProcession: UIViewController, UITableViewDelegate, UITableViewDataS
     }
     
     
-    
+    // commit, push and pull
     func network_request(){
         
         
